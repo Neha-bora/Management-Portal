@@ -10,9 +10,10 @@
 
  ##### The staff member has to respond if the lead is useful or not. If useful then the lead will be transferred to the admin and if not then it will be deleted. 
  Staff can also Add/Edit/Delete Leads. 
+  ###### Admin can also see the name of the staff member by which the particular lead is added.
  ![Screenshot (66)](https://user-images.githubusercontent.com/60787730/89732881-3b56f100-da6f-11ea-86be-2fd617e84581.png)
  
- ###### Admin can also see the name of the staff member by which the particular lead is added.
+
  
 
  
